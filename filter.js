@@ -7,4 +7,4 @@ const novoArray = arrayDuplicado.filter(
   (elem, index, arr) => arr.indexOf(elem) === index
 );
 
-console.log(novoArray);
+console.log(novoArray); // [2, 3, 4, 5, 12, 19, 7]

@@ -25,4 +25,4 @@ const team = [
   { id: 5, name: "Larissa", pilot: false },
 ];
 
-console.log(team.some((person) => person.pilot)); //true
+console.log(team.some((person) => person.pilot)); // true
