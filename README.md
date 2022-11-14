@@ -6,7 +6,7 @@
 <p>Percorre todos os elementos do array executando uma função booleana, retornando true ou false<p>
 
 <h2>filter()<h2>
-  Percorre todos os elementos do array executando uma função booleana e retornando um novo array com todos os elementos que retornaram true
+  <a>Percorre todos os elementos do array executando uma função booleana e retornando um novo array com todos os elementos que retornaram true<a>
   
 <h2>find()<h2>
     <p>Retorna o primeiro elemento que passou no teste<p>
