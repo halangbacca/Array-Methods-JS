@@ -1,15 +1,18 @@
 # Métodos de Array
 <h2>concat()<h2>
-    <p><p>
+<p>Concatena dois ou mais arrays<p>
+
 <h2>every()<h2>
-  <p><p>
+<p>Percorre todos os elementos do array executando uma função booleana, retornando true ou false<p>
+
 <h2>filter()<h2>
-  <p><p>
+  <p>Percorre todos os elementos do array executando uma função booleana e retornando um novo array com todos os elementos que retornaram true*/<p>
+  
 <h2>find()<h2>
-    <p><p>
+    <p>Retorna o primeiro elemento que passou no teste<p>
 
 <h2>findIndex()<h2>
-    <p><p>
+    <p>Retorna o índice do primeiro elemento encontrado<p>
 
 <h2>forEach()<h2>
     <p><p>
